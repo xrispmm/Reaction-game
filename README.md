@@ -1,2 +1,2 @@
 # Reaction-game
-play with your friends
+reaction game with arduino uno by xrispmm 
